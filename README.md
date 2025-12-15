@@ -3,16 +3,8 @@
 ### Full Stack Developer | React · Next.js · Node.js · NestJS · AI / Generative AI
 ## 👋 Hi there
 
-I’m **Rakshith Thubinkere Prakash**, a Full Stack Developer with **4+ years of experience**
-building **scalable, high-performance web applications and SaaS platforms** using
-React, Next.js, Node.js, NestJS, and modern databases.
-
-I’ve worked extensively on **enterprise-grade applications** in the healthcare domain,
-delivering **GDPR-compliant, user-focused solutions** with a strong emphasis on
-performance, maintainability, and clean architecture.
-
-Currently based in **Berlin, Germany**, I enjoy working in **agile, product-driven teams**
-where thoughtful engineering meets impactful user experiences.
+I’m **Rakshith Thubinkere Prakash**, a Full Stack Developer with 4 years of experience building scalable SaaS and web applications using React, Next.js, Node.js, and NestJS.
+Focused on performance, clean architecture, and user-centric design. Based in Berlin.
 
 ---
 
